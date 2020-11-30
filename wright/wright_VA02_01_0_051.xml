@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>Richmond Times-Dispatch article about the exhibition "Virginia Photographers 1980" at the Virginia Museum of Fine Arts from May to June 1980. Includes image of Wright's "Sandbridge, Ann S. and Susan H."</dcterms:title>
+    <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+    <dcterms:isPartof>Willie Anne Wright Artist Archives (VA-02)</dcterms:isPartof>
+    <dcterms:temporal>Twentieth century</dcterms:temporal>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Wright, Willie Anne</dcterms:subject>
+    <dcterms:subject>Photography, Artistic--Exhibitions</dcterms:subject>
+    <dcterms:subject>Virginia Museum of Fine Arts</dcterms:subject>
+    <edm:isShownAt>https://www.vmfa.museum/piction/94061105-108737672/</edm:isShownAt>
+    <edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/108737678.jpg</edm:preview>
+    <dcterms:created>1980-06-01</dcterms:created>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>Clippings</dcterms:medium>
+    <dcterms:creator>Richmond times-dispatch</dcterms:creator>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+    <dcterms:identifier>VA02.01.0.051</dcterms:identifier>
+</mdRecord>

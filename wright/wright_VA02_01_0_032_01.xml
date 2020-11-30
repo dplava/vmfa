@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>Richmond Times-Dispatch article "Artist Uses 'Pinhole' Camera" about the exhibition "Maymont Park and Other Fantasies" at the Carriage House Gallery in April 1975.</dcterms:title>
+    <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+    <dcterms:isPartof>Willie Anne Wright Artist Archives (VA-02)</dcterms:isPartof>
+    <dcterms:temporal>Twentieth century</dcterms:temporal>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Wright, Willie Anne</dcterms:subject>
+    <dcterms:subject>Photography, Artistic--Exhibitions</dcterms:subject>
+    <dcterms:subject>Carriage House Gallery</dcterms:subject>
+    <edm:isShownAt>https://www.vmfa.museum/piction/94061105-108737195/</edm:isShownAt>
+    <edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/108737201.jpg</edm:preview>
+    <dcterms:created>1975-03-30</dcterms:created>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>Clippings</dcterms:medium>
+    <dcterms:creator>Richmond times-dispatch</dcterms:creator>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+    <dcterms:identifier>VA02.01.0.032.01</dcterms:identifier>
+</mdRecord>

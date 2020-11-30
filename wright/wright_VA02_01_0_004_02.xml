@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>Photograph of Willie Anne standing in front of her painting "Rachel Welch," which was exhibited at Westhampton College from November-December 1966.</dcterms:title>
+    <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+    <dcterms:isPartof>Willie Anne Wright Artist Archives (VA-02)</dcterms:isPartof>
+    <dcterms:temporal>Twentieth century</dcterms:temporal>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Wright, Willie Anne</dcterms:subject>
+    <dcterms:subject>Painting, American--Exhibitions</dcterms:subject>
+    <dcterms:subject>Westhampton College (Richmond, Va.)</dcterms:subject>
+    <edm:isShownAt>https://www.vmfa.museum/piction/94061105-108736449/</edm:isShownAt>
+    <edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/108736455.jpg</edm:preview>
+    <dcterms:created>1966-11/1966-12</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Black-and-white photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+    <dcterms:identifier>VA02.01.0.004.02</dcterms:identifier>
+</mdRecord>
