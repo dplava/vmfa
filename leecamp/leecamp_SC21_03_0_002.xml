@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>"Blue and the Gray Re-Union" Ribbon, Seward Post 37, G.A.R., Auburn, N.Y. and R.E. Lee Camp, C. V., Richmond, VA</dcterms:title>
+    <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+    <dcterms:isPartof>R.E. Lee Camp, No. 1, Confederate Veterans Papers (SC-21)</dcterms:isPartof>
+    <dcterms:temporal>Nineteenth century</dcterms:temporal>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:identifier>SC21.03.0.002</dcterms:identifier>
+    <dcterms:creator>Grand Army of the Republic. Seward Post No. 37 (Auburn, N.Y.)</dcterms:creator>
+    <dcterms:creator>Sons of Confederate Veterans (Organization). R.E. Lee Camp No. 1 (Richmond, Va.)</dcterms:creator>
+    <dcterms:created>1885-07-04/1885-07-04</dcterms:created>
+    <dcterms:medium>Trimming</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
+    <edm:isShownAt>https://www.vmfa.museum/piction/94061105-108736312/</edm:isShownAt>
+    <edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/108736318.jpg</edm:preview>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:spatial>Richmond (Va.)</dcterms:spatial>
+    <dcterms:spatial>Auburn (N.Y.)</dcterms:spatial></mdRecord>
