@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>Portfolio Opening Statement</dcterms:title>
+    <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+    <dcterms:isPartof>Beuford Smith Archives (SC-32)</dcterms:isPartof>
+    <dcterms:temporal>Twentieth century</dcterms:temporal>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:identifier>SC32.01.0.002</dcterms:identifier>
+    <dcterms:creator>Kamoinge Inc.‏</dcterms:creator>
+    <dcterms:creator>Draper, Louis H., 1935-2002</dcterms:creator>
+    <dcterms:created>1964-01/1965-12</dcterms:created>
+    <dcterms:medium>Writings (documents)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
+    <edm:isShownAt>https://www.vmfa.museum/piction/94061105-250966180/</edm:isShownAt>
+    <edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/250966196.jpg</edm:preview>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+    <dcterms:subject>Kamoinge Inc.</dcterms:subject>
+</mdRecord>
