@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm:/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>Jean Burkhalter : soixante-dix motifs décoratifs en dix-huit planches.</dcterms:title>
+    <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:temporal>Twentieth century</dcterms:temporal>
+    <dcterms:creator>Burkhalter, Jean, 1895-1982.</dcterms:creator>
+    <dcterms:identifier>30804000348051</dcterms:identifier>
+    <dcterms:extent>[1] leaf, 18 leaves of plates : color illustrations ; 41 cm</dcterms:extent>
+    <dcterms:created>1930</dcterms:created>
+    <edm:isShownAt>https://www.vmfa.museum/piction/108734640-122185574/</edm:isShownAt>
+    <edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/122185580.jpg</edm:preview>
+    <dcterms:publisher>Paris : A. Lévy</dcterms:publisher>
+    <dcterms:rights>https://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:subject>Decoration and ornament</dcterms:subject>
+    <dcterms:subject>Plant forms</dcterms:subject>
+    <dcterms:medium>Pochoir</dcterms:medium>
+    <dcterms:medium>Portfolios (containers).</dcterms:medium>
+    <dcterms:subject>Burkhalter, Jean, 1895-1982.</dcterms:subject>
+</mdRecord>
