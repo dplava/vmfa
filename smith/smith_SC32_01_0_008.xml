@@ -3,7 +3,7 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
     <dcterms:title>Resume: Adger W. Cowans</dcterms:title>
     <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
-    <dcterms:isPartof>Beuford Smith Archives (SC-32)</dcterms:isPartof>
+    <dcterms:isPartOf>Beuford Smith Archives (SC-32)</dcterms:isPartOf>
     <dcterms:temporal>Twentieth century</dcterms:temporal>
     <dcterms:language>eng</dcterms:language>
     <dcterms:identifier>SC32.01.0.008</dcterms:identifier>
