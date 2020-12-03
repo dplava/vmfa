@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>5756-18</dcterms:title>
+    <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+    <dcterms:isPartOf>Lillian Thomas Pratt Personal Papers (SC-07)</dcterms:isPartOf>
+    <dcterms:temporal>Twentieth century</dcterms:temporal>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Art objects, Russian</dcterms:subject>
+    <dcterms:subject>Art dealers</dcterms:subject>
+    <dcterms:subject>Fabergé, Peter Carl, 1846-1920</dcterms:subject>
+    <dcterms:subject>Fabergé Firm</dcterms:subject>
+    <dcterms:subject>Pratt, Lillian Thomas, 1876?--Art collections</dcterms:subject>
+    <dcterms:subject>Hammer Galleries</dcterms:subject>
+    <dcterms:creator>Hammer Galleries</dcterms:creator>
+    <dcterms:identifier>SC07.02.3.154</dcterms:identifier>
+    <dcterms:creator>Hammer Galleries</dcterms:creator>
+    <dcterms:created>1940-12-04/1940-12-04</dcterms:created>
+    <dcterms:medium>Sales records</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
+    <edm:isShownAt>https://www.vmfa.museum/piction/94061105-100600274/</edm:isShownAt>
+    <edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/101652809.jpg</edm:preview>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:spatial>New York (N.Y.)</dcterms:spatial>
+</mdRecord>
