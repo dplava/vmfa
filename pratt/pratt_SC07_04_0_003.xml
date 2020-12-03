@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>"Romanoff Gems, Art Shown Here," Aaron Marc Stein, New York Evening Post</dcterms:title>
+    <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+    <dcterms:isPartOf>Lillian Thomas Pratt Personal Papers (SC-07)</dcterms:isPartOf>
+    <dcterms:temporal>Twentieth century</dcterms:temporal>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fabergé, Peter Carl, 1846-1920</dcterms:subject>
+    <dcterms:subject>Fabergé Firm</dcterms:subject>
+    <dcterms:identifier>SC07.04.0.003</dcterms:identifier>
+    <dcterms:creator>New York post</dcterms:creator>
+    <dcterms:created>1933-01-03/1933-01-03</dcterms:created>
+    <dcterms:medium>Clippings</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
+    <edm:isShownAt>https://www.vmfa.museum/piction/94061105-100625617/</edm:isShownAt>
+    <edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/101653140.jpg</edm:preview>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+    <dcterms:spatial>New York (N.Y.)</dcterms:spatial>
+</mdRecord>
