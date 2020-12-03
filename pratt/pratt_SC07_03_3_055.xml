@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>B. Altman, Blank Tag</dcterms:title>
+    <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+    <dcterms:isPartOf>Lillian Thomas Pratt Personal Papers (SC-07)</dcterms:isPartOf>
+    <dcterms:temporal>Twentieth century</dcterms:temporal>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Pratt, Lillian Thomas, 1876?--Art collections</dcterms:subject>
+    <dcterms:identifier>SC07.03.3.055</dcterms:identifier>
+    <dcterms:creator>B. Altman &amp; Co.</dcterms:creator>
+    <dcterms:created>undated</dcterms:created>
+    <dcterms:medium>Price tags</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
+    <edm:isShownAt>https://www.vmfa.museum/piction/94061105-100622053/</edm:isShownAt>
+    <edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/101653111.jpg</edm:preview>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:spatial>New York (N.Y.)</dcterms:spatial>
+</mdRecord>
