@@ -3,7 +3,7 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
     <dcterms:title>"The Home for Ex-Confederate Soldiers and Sailors at Richmond, VA," Frank Leslie's Illustrated Newspaper, pages 5-6</dcterms:title>
     <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
-    <dcterms:isPartof>R.E. Lee Camp, No. 1, Confederate Veterans Papers (SC-21)</dcterms:isPartof>
+    <dcterms:isPartOf>R.E. Lee Camp, No. 1, Confederate Veterans Papers (SC-21)</dcterms:isPartOf>
     <dcterms:temporal>Nineteenth century</dcterms:temporal>
     <dcterms:language>eng</dcterms:language>
     <dcterms:identifier>SC21.02.0.001</dcterms:identifier>
