@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:edm="http://www.europeana.eu/schemas/edm::/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
     <dcterms:title>Presentation of imperial Russian Easter gifts / by Carl Fabergé ; introduction by H.C. Bainbridge.</dcterms:title>
     <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
