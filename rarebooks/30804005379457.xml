@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Richmond : twelve lithographs of the city on the James / by Theo White ; with an introduction by Julia Sully.</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:language>eng</dcterms:language>
+<dcterms:creator>White, Theophilus Ballou, 1903-</dcterms:creator>
+<dcterms:creator>Sully, Julia.</dcterms:creator>
+<dcterms:creator>Cuno, Theodore H., 1877-1967</dcterms:creator>
+<dcterms:identifier>30804005379457</dcterms:identifier>
+<dcterms:extent>[10] pages, [11] leaves of plates : illustrations ; 53 cm.</dcterms:extent>
+<dcterms:created>1934</dcterms:created>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-122191256/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/122191262.jpg</edm:preview>
+<dcterms:publisher>Richmond : Garrett and Massie, Inc., c1934.</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+<dcterms:subject>Architecture -- Virginia -- Richmond.</dcterms:subject>
+<dcterms:subject>Historic buildings -- Virginia -- Richmond.</dcterms:subject>
+<dcterms:spatial>Richmond (Va.) -- Buildings, structures, etc.</dcterms:spatial>
+<dcterms:medium>Lithographs.</dcterms:medium>
+</mdRecord>

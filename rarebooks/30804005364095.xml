@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Or et couleurs : recueil de 60 dessins / composés par G. Darcy</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:language>fre</dcterms:language>
+<dcterms:creator>Darcy, G.</dcterms:creator>
+<dcterms:identifier>30804005364095</dcterms:identifier>
+<dcterms:extent>[4] pages, 20 leaves of plates : color illustrations (pochoir) ; 47 cm.</dcterms:extent>
+<dcterms:created>1930-1939</dcterms:created>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-160514401/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/160514407.jpg</edm:preview>
+<dcterms:publisher>Paris : [A. Calavas], [193-?]</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+<dcterms:subject>Decoration and ornament -- France -- 20th century.</dcterms:subject>
+<dcterms:subject>Industrial design -- France -- 20th century.</dcterms:subject>
+<dcterms:subject>Textile design</dcterms:subject>
+<dcterms:medium>Pochoir</dcterms:medium>
+<dcterms:medium>Portfolios (containers).</dcterms:medium>
+</mdRecord>
