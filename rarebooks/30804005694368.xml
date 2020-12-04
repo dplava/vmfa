@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>A description of the works of the ingenious delineator and engraver Wenceslaus Hollar: disposed into classes of different sorts; with some account of his life / By George Vertue.</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Eighteenth century</dcterms:temporal>
+<dcterms:creator>Vertue, George, 1684-1756.</dcterms:creator>
+<dcterms:creator>Bathoe, William, -1768.</dcterms:creator>
+<dcterms:creator>Hollar, Wenceslaus, 1607-1677.</dcterms:creator>
+<dcterms:identifier>30804005694368</dcterms:identifier>
+<dcterms:extent>vi, 151, [1] pages, [1] leaf of plates : illustrations ; 39 cm</dcterms:extent>
+<dcterms:created>1759</dcterms:created>
+<dcterms:language>eng</dcterms:language>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-124455809/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/124455815.jpg</edm:preview>
+<dcterms:publisher>London : Printed for William Bathoe, at his Circulating Library in the Strand, near Exeter Exchange</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:subject>Etching -- Catalogs.</dcterms:subject>
+<dcterms:subject>Hollar, Wenceslaus, 1607-1677.</dcterms:subject>
+</mdRecord>

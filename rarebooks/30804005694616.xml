@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Le Pater / commentaire et compositions de A.M. Mucha.</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Nineteenth century</dcterms:temporal>
+<dcterms:creator>Mucha, Alphonse, 1860-1939.</dcterms:creator>
+<dcterms:creator>Champenois imprimeur</dcterms:creator>
+<dcterms:creator>H. Piazza (Firm)</dcterms:creator>
+<dcterms:identifier>30804005694616</dcterms:identifier>
+<dcterms:extent>28 unnumbered leaves : illustrations ; 41 cm</dcterms:extent>
+<dcterms:created>1899</dcterms:created>
+<dcterms:language>fre</dcterms:language>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-124174144/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/124174150.jpg</edm:preview>
+<dcterms:publisher>Paris : F. Champenois imprimeur-éditeur</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:medium>Chromolithographs</dcterms:medium>
+<dcterms:medium>Lithographs.</dcterms:medium>
+</mdRecord>

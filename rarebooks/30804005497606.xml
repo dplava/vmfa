@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Allerlei Gedanken in Vignettenform / C.O. Czeschka.</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:creator>Czeschka, Carl Otto, 1878-1960.</dcterms:creator>
+<dcterms:creator>Verlag M. Gerlach &amp; Co.</dcterms:creator>
+<dcterms:identifier>30804005497606</dcterms:identifier>
+<dcterms:extent>30 plates : color illustrations ; 26 x 30 cm</dcterms:extent>
+<dcterms:created>1902</dcterms:created>
+<dcterms:language>ger</dcterms:language>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-165695732/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/165695738.jpg</edm:preview>Location of Originals NoteDie quelle<dcterms:publisher>Wien : M. Gerlach &amp; Co.</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:subject>Art nouveau.</dcterms:subject>
+<dcterms:medium>Portfolios (containers).</dcterms:medium>
+<dcterms:subject>Wiener Secession</dcterms:subject>
+</mdRecord>

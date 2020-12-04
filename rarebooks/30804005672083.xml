@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>The Hammer Collection of Russian imperial art treasures.</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:creator>Fabergé, Peter Carl, 1846-1920</dcterms:creator>
+<dcterms:creator>Hammer Galleries</dcterms:creator>
+<dcterms:identifier>30804005672083</dcterms:identifier>
+<dcterms:extent>[4] pages : illustrations ; 22 cm + 20 slips in pocket</dcterms:extent>
+<dcterms:created>1935</dcterms:created>
+<dcterms:language>eng</dcterms:language>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-124119266/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/124119272.jpg</edm:preview>
+<dcterms:publisher>New York : Hammer Galleries Inc.</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+<dcterms:medium>Pamphlets.</dcterms:medium>
+<dcterms:medium>Sales catalogs.</dcterms:medium>
+<dcterms:subject>Fabergé, Peter Carl, 1846-1920 -- Catalogs.</dcterms:subject>
+</mdRecord>

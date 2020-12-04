@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Auguste Rodin die Kunst : Gespräche des Meisters / gesammelt von Paul Gsell.</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:creator>Gsell, Paul, 1870-1947</dcterms:creator>
+<dcterms:creator>Rodin, Auguste, 1840-1917.</dcterms:creator>
+<dcterms:identifier>30804005650972</dcterms:identifier>
+<dcterms:extent>183 pages, [64] pages of plates : illustrations ; 24 cm</dcterms:extent>
+<dcterms:created>1913</dcterms:created>
+<dcterms:language>ger</dcterms:language>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-167750113/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/167750119.jpg</edm:preview>
+<dcterms:publisher>Leipzig : Ernst Rowohlt</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:subject>Rodin, Auguste, 1840-1917.</dcterms:subject>
+</mdRecord>

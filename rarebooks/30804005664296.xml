@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Salvator Rosa invenit.</dcterms:title>
+    <dcterms:title>Salvator Rosa inuenit.</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Seventeenth century</dcterms:temporal>
+<dcterms:creator>Rosa, Salvatore, 1615-1673.</dcterms:creator>
+<dcterms:identifier>30804005664296</dcterms:identifier>
+<dcterms:extent>60 leaves of plates : illustrations (etchings) ; 23 cm</dcterms:extent>
+<dcterms:created>1675</dcterms:created>
+<dcterms:language>fre</dcterms:language>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-124111121/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/124111127.jpg</edm:preview>
+<dcterms:publisher>A Paris : chez De Poilly rue St. Jacques a l'image St. benoist, [1675?]</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:subject>Human figure in art -- 17th century.</dcterms:subject>
+<dcterms:medium>Etchings (prints).</dcterms:medium>
+<dcterms:medium>Prints.</dcterms:medium>
+</mdRecord>

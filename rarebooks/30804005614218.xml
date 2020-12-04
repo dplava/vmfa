@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Les fleurs du mal / Charles Baudelaire ; illustrations de Carlos Schwabe.</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:creator>Baudelaire, Charles, 1821-1867.</dcterms:creator>
+<dcterms:creator>Schwabe, Carlos, 1866-1926.</dcterms:creator>
+<dcterms:identifier>30804005614218</dcterms:identifier>
+<dcterms:extent>[8], 317, [2] pages, [34] leaves of plates : illustrations (some color), plates ; 29 cm</dcterms:extent>
+<dcterms:created>1900</dcterms:created>
+<dcterms:language>fre</dcterms:language>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-124106322/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/124106330.jpg</edm:preview>
+<dcterms:publisher>Paris : Imprimé pour Charles Meunier</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+</mdRecord>

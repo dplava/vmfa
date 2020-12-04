@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>L'éventail et la fourrure chez Paquin / dessins de Paul Iribe, George Barbier, Georges Lepape.</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:creator>Barbier, George, 1882-1932.</dcterms:creator>
+<dcterms:creator>Iribe, Paul, 1883-1935.</dcterms:creator>
+<dcterms:creator>Lepape, Georges, 1887-1971.</dcterms:creator>
+<dcterms:creator>Paquin (Firm)</dcterms:creator>
+<dcterms:creator>Maquet (Firm)</dcterms:creator>
+<dcterms:identifier>30804005653596</dcterms:identifier>
+<dcterms:extent>7 unnumbered leaves of color plates : color illustrations (pochoir) ; 49 cm</dcterms:extent>
+<dcterms:created>1911</dcterms:created>
+<dcterms:language>fre</dcterms:language>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-151312636/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/151312642.jpg</edm:preview>
+<dcterms:publisher>Paris : Maquet</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:subject>Fans</dcterms:subject>
+<dcterms:subject>Stencil work</dcterms:subject>
+<dcterms:medium>Pochoir</dcterms:medium>
+</mdRecord>

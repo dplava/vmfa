@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Description du sacre et du couronnement de Leurs Majestés Impériales L'Empereur de toutes les Russies Alexandre III et L'Impératrice Marie Féodorovna.</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:type>Text</dcterms:type>
+<dcterms:temporal>Nineteenth century</dcterms:temporal>
+<dcterms:creator>Ėkspedit︠s︡ii︠a︡ zagotovlenii︠a︡ gosudarstvennykh bumag (Russia)</dcterms:creator>
+<dcterms:identifier>30804005653604</dcterms:identifier>
+<dcterms:extent>[2], 65, [3] pages, [27] leaves of plates : illustrations, portraits, plans ; 68 cm</dcterms:extent>
+<dcterms:created>1883</dcterms:created>
+<dcterms:language>fre</dcterms:language>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-160592201/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/160592208.jpg</edm:preview>
+<dcterms:publisher>Sanktpetersburg : Expédition pour la Confection des Papiers de l'Etat</dcterms:publisher>
+<dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:subject>Coronations in art</dcterms:subject>
+<dcterms:subject>Coronations</dcterms:subject>
+<dcterms:medium>Chromolithographs</dcterms:medium>
+<dcterms:subject>Alexander, Emperor of Russia, III, 1845-1894</dcterms:subject>
+<dcterms:subject>Marīi︠a︡ Ḟeodorovna, Empress, consort of Alexander III, Emperor of Russia, 1847-1928</dcterms:subject>
+</mdRecord>
