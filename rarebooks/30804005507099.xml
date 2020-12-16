@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Ilsée, princesse de Tripoli / Robert de Flers ; lithographies de A. Mucha.</dcterms:title>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Ilsée, princesse de Tripoli / Robert de Flers ; lithographies de A. Mucha.</dcterms:title>
 <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
 <dcterms:type>Text</dcterms:type>
 <dcterms:temporal>Twentieth century</dcterms:temporal>
@@ -9,8 +10,8 @@
 <dcterms:extent>128 pages : color illustrations (lithographs) ; 34 cm.</dcterms:extent>
 <dcterms:created>1897</dcterms:created>
 <dcterms:language>fre</dcterms:language>
-<edm:isShownAt>https://www.vmfa.museum/piction/108734640-122542067/</edm:isShownAt>
-<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/122542074.jpg</edm:preview>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-122340588/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/122340594.jpg</edm:preview>
 <dcterms:publisher>Paris : L'Edition d'art</dcterms:publisher>
 <dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:subject>Art nouveau.</dcterms:subject>
