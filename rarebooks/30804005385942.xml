@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-    <dcterms:title>La Loïe Fuller / Roger Marx ; estampes modelées de Pierre Roche.</dcterms:title>
+<dcterms:title>La Loïe Fuller / Roger Marx ; estampes modelées de Pierre Roche.</dcterms:title>
 <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
 <dcterms:type>Text</dcterms:type>
 <dcterms:temporal>Twentieth century</dcterms:temporal>
@@ -10,8 +10,8 @@
 <dcterms:identifier>30804005385942</dcterms:identifier>
 <dcterms:extent>24 pages : color illustrations ; 29 cm</dcterms:extent>
 <dcterms:created>1904</dcterms:created>
-<edm:isShownAt>https://www.vmfa.museum/piction/108734640-214422389/</edm:isShownAt>
-<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/214422395.jpg</edm:preview>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-122199741/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/122199747.jpg</edm:preview>
 <dcterms:publisher>Evreux, France : C. Hérissey</dcterms:publisher>
 <dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:subject>Fuller, Loie, 1862-1928.</dcterms:subject>
