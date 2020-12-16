@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Various subjects of landscape, characteristic of English scenery / from pictures painted by John Constable, R.A. ; engraved by David Lucas.</dcterms:title>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Various subjects of landscape, characteristic of English scenery / from pictures painted by John Constable, R.A. ; engraved by David Lucas.</dcterms:title>
 <dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
 <dcterms:type>Text</dcterms:type>
 <dcterms:temporal>Nineteenth century</dcterms:temporal>
@@ -10,8 +11,8 @@
 <dcterms:extent>[5] leaves, [22] leaves of plates : chiefly illustrations ; 29 x 44 cm</dcterms:extent>
 <dcterms:created>1830-1833</dcterms:created>
 <dcterms:language>eng</dcterms:language>
-<edm:isShownAt>https://www.vmfa.museum/piction/108734640-122466599/</edm:isShownAt>
-<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/122466605.jpg</edm:preview>
+<edm:isShownAt>https://www.vmfa.museum/piction/108734640-122461896/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/122461905.jpg</edm:preview>
 <dcterms:publisher>London : Published by Mr. Constable, 35, Charlotte Street, Fitzroy Square. Sold by Colnaghi, Dominic Colnaghi, and co. Pall Mall East</dcterms:publisher>
 <dcterms:rights>https://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:subject>Landscape painting, English</dcterms:subject>
