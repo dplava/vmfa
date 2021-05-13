@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Alternative Visions 1984</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:isPartOf>Louis H. Draper Artist Archives (VA-04)</dcterms:isPartOf>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:language>eng</dcterms:language>
+<dcterms:identifier>VA04.02.1.010</dcterms:identifier>
+<dcterms:creator>Mercer County Community College (N.J.)</dcterms:creator>
+<dcterms:created>1984-01/1984-12</dcterms:created>
+<dcterms:medium>Exhibition catalogs</dcterms:medium>
+<dcterms:medium>Catalogs</dcterms:medium>
+<dcterms:medium>Books</dcterms:medium>
+<edm:isShownAt>https://www.vmfa.museum/piction/94061105-186601396/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/186601402.jpg</edm:preview>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:subject>Exhibitions</dcterms:subject>
+<dcterms:spatial>West Windsor (N.J. : Township)</dcterms:spatial></mdRecord>
