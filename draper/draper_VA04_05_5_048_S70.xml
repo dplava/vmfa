@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>[Soviet Union]</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:isPartOf>Louis H. Draper Artist Archives (VA-04)</dcterms:isPartOf>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:language>eng</dcterms:language>
+<dcterms:identifier>VA04.05.5.048.S70</dcterms:identifier>
+<dcterms:creator>Draper, Louis H., 1935-2002</dcterms:creator>
+<dcterms:created>1990-07/1990-08</dcterms:created>
+<dcterms:medium>Color slides</dcterms:medium>
+<edm:isShownAt>https://www.vmfa.museum/piction/94061105-190688763/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/190688769.jpg</edm:preview>
+<dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+<dcterms:spatial>Soviet Union</dcterms:spatial>
+<dcterms:spatial>Russia (Federation)</dcterms:spatial></mdRecord>
