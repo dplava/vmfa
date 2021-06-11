@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Exhibition of Oriental Rugs</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:isPartOf>Catalog Collection (PB-01)</dcterms:isPartOf>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:language>eng</dcterms:language>
+<dcterms:identifier>RG23.06.1945.005</dcterms:identifier>
+<dcterms:created>1945/1945</dcterms:created>
+<dcterms:type>Text</dcterms:type>
+<edm:isShownAt>https://www.vmfa.museum/piction/94061105-123153681/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/123153687.jpg</edm:preview></mdRecord>

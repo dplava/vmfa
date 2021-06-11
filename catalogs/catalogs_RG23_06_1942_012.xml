@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Paintings by Harriet Fitzgerald [Virginia Artist]</dcterms:title>
+<dcterms:provenance>Virginia Museum of Fine Arts Library</dcterms:provenance>
+<dcterms:isPartOf>Catalog Collection (PB-01)</dcterms:isPartOf>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:language>eng</dcterms:language>
+<dcterms:identifier>RG23.06.1942.012</dcterms:identifier>
+<dcterms:creator>Virginia Museum of Fine Arts</dcterms:creator>
+<dcterms:created>1942-11-13/1942-11-30</dcterms:created>
+<dcterms:medium>Exhibition catalogs</dcterms:medium>
+<dcterms:type>Text</dcterms:type>
+<edm:isShownAt>https://www.vmfa.museum/piction/94061105-123129521/</edm:isShownAt>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/123129527.jpg</edm:preview>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:subject>Virginia Museum of Fine Arts. Exhibitions</dcterms:subject>
+<dcterms:subject>Fitzgerald, Harriet. Exhibitions</dcterms:subject>
+<dcterms:spatial>Richmond (Va.)</dcterms:spatial></mdRecord>
