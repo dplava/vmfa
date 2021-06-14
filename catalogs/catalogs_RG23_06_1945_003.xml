@@ -4,7 +4,14 @@
 <dcterms:temporal>Twentieth century</dcterms:temporal>
 <dcterms:language>eng</dcterms:language>
 <dcterms:identifier>RG23.06.1945.003</dcterms:identifier>
-<dcterms:created>1945/1945</dcterms:created>
+<dcterms:created>1945-02-17/1945-03-11</dcterms:created>
+<dcterms:medium>Exhibition catalogs</dcterms:medium>
 <dcterms:type>Text</dcterms:type>
 <edm:isShownAt>https://www.vmfa.museum/piction/94061105-123153417/</edm:isShownAt>
-<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/123153423.jpg</edm:preview></mdRecord>
+<edm:preview>https://vmfa-assets.nyc3.digitaloceanspaces.com/uploads/2019/11/123153423.jpg</edm:preview>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:subject>Virginia Museum of Fine Arts. Exhibitions</dcterms:subject>
+<dcterms:subject>Jelinek, Hans, 1910-1992. Exhibitions</dcterms:subject>
+<dcterms:subject>Kumm, Marguerite Elizabeth, 1902-. Exhibitions</dcterms:subject>
+<dcterms:subject>Lankes, Julius J., 1884-1960. Exhibitions</dcterms:subject>
+<dcterms:spatial>Richmond (Va.)</dcterms:spatial></mdRecord>
